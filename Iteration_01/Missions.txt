@@ -1,0 +1,7 @@
+Missions : 
+--------
+1- Concevoir la class Article avec ses méthodes
+2- Concevoir la class RSSfeed avec ses méthodes
+3- Concevoir les bases de données et les requêtes préparées pour toutes les opérations de cette étape.
+4- Recherche des flux RSS et création des méthodes de filtrage/nettoyage des flux efficaces (nettoyer les mauvais affichages .... )
+Programmer la méthode du fichier .txt (fichier où se trouve quelques flux RSS au départ pour alimenter la base au début)
